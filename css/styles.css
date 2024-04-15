@@ -1,18 +1,18 @@
 body {
-  background-color: powderblue;
+  background-color: #000000;
 }
 
 h1 {
-  color: #66BFBF;
+  color: #f1f1f1;
 }
 
 h3 {
-  color: #66BFBF;
+  color: #f1f1f1;
 }
 
 hr {
-  border-style: none;
-  border-top-style: dotted;
+  border-style: solid grey;
+  border-top-style: solid white;
   border-color: grey;
   border-width: 3px;
   width: 7%;
