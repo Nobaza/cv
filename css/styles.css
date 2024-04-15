@@ -11,9 +11,13 @@ h3 {
 }
 
 hr {
-  border-style: solid grey;
+  border-style: solid rgb(234, 84, 84);
   border-top-style: solid white;
   border-color: grey;
   border-width: 3px;
   width: 7%;
+}
+
+li {
+  color: goldenrod;
 }
