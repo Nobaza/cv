@@ -3,7 +3,7 @@ body {
 }
 
 h1 {
-  color: #f1f1f1;
+  color: rgb(131, 96, 8);
 }
 
 h3 {
@@ -19,5 +19,5 @@ hr {
 }
 
 li {
-  color: goldenrod;
+  color: rgb(171, 145, 80);
 }
